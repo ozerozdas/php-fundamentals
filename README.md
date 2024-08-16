@@ -6,8 +6,8 @@ This checklist covers the basic and advanced topics you should know as a PHP dev
 - [x] Variables
 - [x] Data Types
 - [x] Operators
-- [ ] Control Structures (if-else, switch)
-- [ ] Loops (for, while, foreach)
+- [x] Control Structures (if-else, switch)
+- [x] Loops (for, while, foreach)
 
 ## Functions
 - [ ] Function Definition
