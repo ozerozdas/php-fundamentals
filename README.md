@@ -10,10 +10,10 @@ This checklist covers the basic and advanced topics you should know as a PHP dev
 - [x] Loops (for, while, foreach)
 
 ## Functions
-- [ ] Function Definition
-- [ ] Parameters and Return Values
-- [ ] Anonymous Functions (Closure)
-- [ ] Recursive Functions
+- [x] Function Definition
+- [x] Parameters and Return Values
+- [x] Anonymous Functions (Closure)
+- [x] Recursive Functions
 
 ## Arrays
 - [ ] Array Definition and Usage
