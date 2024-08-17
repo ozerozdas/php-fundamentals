@@ -3,22 +3,22 @@
 This checklist covers the basic and advanced topics you should know as a PHP developer.
 
 ## PHP Syntax and Basic Structures
-- [x] (Variables)[./php_syntax_basic_structures/variables.php]
-- [x] (Data Types)[php_syntax_basic_structures/data_types.php]
-- [x] (Operators)[php_syntax_basic_structures/operators.php]
-- [x] (Control Structures (if-else, switch))[php_syntax_basic_structures/control_structures.php]
-- [x] (Loops (for, while, foreach))[php_syntax_basic_structures/loops.php]
+- [x] [Variables](php_syntax_basic_structures/variables.php)
+- [x] [Data Types](php_syntax_basic_structures/data_types.php)
+- [x] [Operators](php_syntax_basic_structures/operators.php)
+- [x] [Control Structures (if-else, switch)](php_syntax_basic_structures/control_structures.php)
+- [x] [Loops (for, while, foreach)](php_syntax_basic_structures/loops.php)
 
 ## Functions
-- [x] (Function Definition)[functions/function_definition.php]
-- [x] (Parameters and Return Values)[functions/parameters_return_values.php]
-- [x] (Anonymous Functions (Closure))[functions/anonymous_functions.php]
-- [x] (Recursive Functions)[functions/recursive_functions.php]
+- [x] [Function Definition](functions/function_definition.php)
+- [x] [Parameters and Return Values](functions/parameters_return_values.php)
+- [x] [Anonymous Functions (Closure)](functions/anonymous_functions.php)
+- [x] [Recursive Functions](functions/recursive_functions.php)
 
 ## Arrays
-- [x] (Array Definition and Usage)[arrays/array_definition_usage.php]
-- [ ] (Multidimensional Arrays)[arrays/multidimensional_arrays.php]
-- [ ] (Array Functions (array_map, array_filter, etc.))[arrays/array_functions.php]
+- [x] [Array Definition and Usage](arrays/array_definition_usage.php)
+- [ ] [Multidimensional Arrays](arrays/multidimensional_arrays.php)
+- [ ] [Array Functions (array_map, array_filter, etc.)](arrays/array_functions.php)
 
 ## Object-Oriented Programming (OOP)
 - [ ] Classes and Objects
