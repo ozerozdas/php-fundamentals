@@ -3,7 +3,7 @@
 This checklist covers the basic and advanced topics you should know as a PHP developer.
 
 ## PHP Syntax and Basic Structures
-- [x] (Variables)[php_syntax_basic_structures/variables.php]
+- [x] (Variables)[./php_syntax_basic_structures/variables.php]
 - [x] (Data Types)[php_syntax_basic_structures/data_types.php]
 - [x] (Operators)[php_syntax_basic_structures/operators.php]
 - [x] (Control Structures (if-else, switch))[php_syntax_basic_structures/control_structures.php]
