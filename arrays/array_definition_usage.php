@@ -21,8 +21,8 @@ cherry
 
 echo PHP_EOL;
 
-$fruitArray[] = 'orange';
+$fruitArray[] = 'orange'; // Add 'orange' to end of array
 print_r($fruitArray); // Output: Array ( [0] => apple [1] => banana [2] => cherry [3] => orange )
 
-$fruitArray[1] = 'strawberry';
+$fruitArray[1] = 'strawberry'; // Change 'banana' to 'strawberry'
 print_r($fruitArray); // Output: Array ( [0] => apple [1] => strawberry [2] => cherry [3] => orange )
