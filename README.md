@@ -20,21 +20,21 @@ This checklist covers the basic and advanced topics you should know as a PHP dev
 - [x] [Multidimensional Arrays](arrays/multidimensional_arrays.php)
 - [x] [Array Functions (array_map, array_filter, etc.)](arrays/array_functions.php)
 
-## Object-Oriented Programming (OOP)
-- [ ] Classes and Objects
-- [ ] Inheritance
-- [ ] Polymorphism
-- [ ] Encapsulation
-- [ ] Abstraction
-- [ ] Abstract Classes
-- [ ] Interfaces
-- [ ] Traits
-- [ ] Constructor and Destructor
-- [ ] Visibility (public, private, protected)
-- [ ] Static Keyword
-- [ ] Final Keyword
-- [ ] Magic Methods (__construct, __destruct, __get, __set, __call, etc.)
-- [ ] Autoloading (spl_autoload_register)
+## [Object-Oriented Programming (OOP)](oop)
+- [x] [Classes and Objects](oop/classes_objects.php)
+- [x] [Inheritance](oop/inheritance.php)
+- [x] [Polymorphism](oop/polymorphism.php)
+- [ ] [Encapsulation](oop/encapsulation.php)
+- [ ] [Abstraction](oop/abstraction.php)
+- [ ] [Abstract Classes](oop/abstract_classes.php)
+- [ ] [Interfaces](oop/interfaces.php)
+- [ ] [Traits](oop/traits.php)
+- [ ] [Constructor and Destructor](oop/constructor_destructor.php)
+- [ ] [Visibility (public, private, protected)](oop/visibility.php)
+- [ ] [Static Keyword](oop/static_keyword.php)
+- [ ] [Final Keyword](oop/final_keyword.php)
+- [ ] [Magic Methods (__construct, __destruct, __get, __set, __call, etc.)](oop/magic_methods.php)
+- [ ] [Autoloading (spl_autoload_register)](oop/autoloading.php)
 
 ## Database Operations
 - [ ] Using PDO and MySQLi
