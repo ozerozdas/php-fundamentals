@@ -18,7 +18,7 @@ This checklist covers the basic and advanced topics you should know as a PHP dev
 ## [Arrays](arrays)
 - [x] [Array Definition and Usage](arrays/array_definition_usage.php)
 - [x] [Multidimensional Arrays](arrays/multidimensional_arrays.php)
-- [ ] [Array Functions (array_map, array_filter, etc.)](arrays/array_functions.php)
+- [x] [Array Functions (array_map, array_filter, etc.)](arrays/array_functions.php)
 
 ## Object-Oriented Programming (OOP)
 - [ ] Classes and Objects
