@@ -35,13 +35,13 @@ This checklist covers the basic and advanced topics you should know as a PHP dev
 - [x] [Magic Methods (__construct, __destruct, __get, __set, __call, etc.)](oop/magic_methods.php)
 - [x] [Autoloading (spl_autoload_register)](oop/autoloading.php)
 
-## Database Operations
-- [ ] Using PDO and MySQLi
-- [ ] SQL Queries (SELECT, INSERT, UPDATE, DELETE)
-- [ ] Prepared Statements
-- [ ] Transaction Management
-- [ ] ORM (Object-Relational Mapping) Concepts
-
+## [Database Operations](database_operations)
+- [x] [Using PDO and MySQLi](database_operations/using_pdo_mysqli.php)
+- [x] [SQL Queries (SELECT, INSERT, UPDATE, DELETE)](database_operations/sql_queries.php)
+- [x] [Prepared Statements](database_operations/prepared_statements.php)
+- [x] [Transaction Management](database_operations/transaction_management.php)
+- [x] [ORM (Object-Relational Mapping) Concepts](database_operations/orm.php)
+   
 ## File and Directory Operations
 - [ ] File Reading/Writing
 - [ ] Directory Operations (Creating, Deleting, Listing)
