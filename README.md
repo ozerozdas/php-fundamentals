@@ -55,11 +55,11 @@ This checklist covers the basic and advanced topics you should know as a PHP dev
 - [x] [Using cURL](http_web_development/using_curl.php)
 - [x] [Developing and Consuming RESTful APIs](http_web_development/developing_consuming_api.php)
 
-## Error Handling
-- [ ] Try-Catch Blocks
-- [ ] Exception Handling
-- [ ] Creating Custom Exceptions
-- [ ] Error Reporting Levels
+## [Error Handling](error_handling)
+- [x] [Try-Catch Blocks](error_handling/try_catch_blocks.php)
+- [x] [Exception Handling](error_handling/exception_handling.php)
+- [x] [Creating Custom Exceptions](error_handling/creating_custom_exceptions.php)
+- [x] [Error Reporting Levels](error_handling/error_reporting_levels.php)
 
 ## Security
 - [ ] SQL Injection Prevention
