@@ -68,10 +68,10 @@ This checklist covers the basic and advanced topics you should know as a PHP dev
 - [x] [Password Hashing (password_hash, password_verify)](security/password_hashing.php)
 - [x] [Secure Session Management](security/secure_session_management.php)
 
-## Advanced PHP Topics
-- [ ] Using Composer
-- [ ] Dependency Injection
-- [ ] PSR Standards
-- [ ] Namespaces
-- [ ] Design Patterns (Singleton, Factory, Observer, etc.)
-- [ ] Introduction to Frameworks (Laravel, Symfony)
+## [Advanced PHP Topics](advanced_php_topics)
+- [x] [Using Composer](advanced_php_topics/using_composer.php)
+- [x] [Dependency Injection](advanced_php_topics/dependency_injection.php)
+- [x] [PSR Standards](advanced_php_topics/psr_standards.php)
+- [x] [Namespaces](advanced_php_topics/namespaces.php)
+- [ ] [Design Patterns (Singleton, Factory, Observer, etc.)](advanced_php_topics/desing_patterns)
+- [ ] [Introduction to Frameworks (Laravel, Symfony)](advanced_php_topics/introduction_to_frameworks.php)
