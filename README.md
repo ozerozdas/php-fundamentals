@@ -61,12 +61,12 @@ This checklist covers the basic and advanced topics you should know as a PHP dev
 - [x] [Creating Custom Exceptions](error_handling/creating_custom_exceptions.php)
 - [x] [Error Reporting Levels](error_handling/error_reporting_levels.php)
 
-## Security
-- [ ] SQL Injection Prevention
-- [ ] XSS (Cross-Site Scripting) Prevention
-- [ ] CSRF (Cross-Site Request Forgery) Prevention
-- [ ] Password Hashing (password_hash, password_verify)
-- [ ] Secure Session Management
+## [Security](security)
+- [x] [SQL Injection Prevention](security/sql_injection_prevention.php)
+- [x] [XSS (Cross-Site Scripting) Prevention](security/xss_prevention.php)
+- [x] [CSRF (Cross-Site Request Forgery) Prevention](security/csrf_prevention.php)
+- [x] [Password Hashing (password_hash, password_verify)](security/password_hashing.php)
+- [x] [Secure Session Management](security/secure_session_management.php)
 
 ## Advanced PHP Topics
 - [ ] Using Composer
