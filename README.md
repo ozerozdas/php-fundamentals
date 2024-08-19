@@ -73,5 +73,5 @@ This checklist covers the basic and advanced topics you should know as a PHP dev
 - [x] [Dependency Injection](advanced_php_topics/dependency_injection.php)
 - [x] [PSR Standards](advanced_php_topics/psr_standards.php)
 - [x] [Namespaces](advanced_php_topics/namespaces.php)
-- [x] [Design Patterns (Singleton, Factory, Observer, etc.)](advanced_php_topics/desing_patterns)
+- [x] [Design Patterns (Singleton, Factory, Observer, etc.)](advanced_php_topics/design_patterns)
 - [x] [Introduction to Frameworks (Laravel, Symfony)](advanced_php_topics/introduction_to_frameworks.php)
