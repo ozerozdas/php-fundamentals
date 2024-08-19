@@ -47,13 +47,13 @@ This checklist covers the basic and advanced topics you should know as a PHP dev
 - [x] [Directory Operations (Creating, Deleting, Listing)](file_directory_operations/directory_operations.php)
 - [x] [File Upload](file_directory_operations/file_upload.php)
 
-## HTTP and Web Development
-- [ ] $_GET, $_POST, $_FILES, $_SESSION, $_COOKIE
-- [ ] Header Management
-- [ ] Form Handling
-- [ ] JSON Operations
-- [ ] Using cURL
-- [ ] Developing and Consuming RESTful APIs
+## [HTTP and Web Development](http_web_development)
+- [x] [$_GET, $_POST, $_FILES, $_SESSION, $_COOKIE](http_web_development/get_post_files.php)
+- [x] [Header Management](http_web_development/header_management.php)
+- [x] [Form Handling](http_web_development/form_handling.php)
+- [x] [JSON Operations](http_web_development/json_operations.php)
+- [x] [Using cURL](http_web_development/using_curl.php)
+- [x] [Developing and Consuming RESTful APIs](http_web_development/developing_consuming_api.php)
 
 ## Error Handling
 - [ ] Try-Catch Blocks
