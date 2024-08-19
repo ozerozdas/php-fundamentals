@@ -42,10 +42,10 @@ This checklist covers the basic and advanced topics you should know as a PHP dev
 - [x] [Transaction Management](database_operations/transaction_management.php)
 - [x] [ORM (Object-Relational Mapping) Concepts](database_operations/orm.php)
    
-## File and Directory Operations
-- [ ] File Reading/Writing
-- [ ] Directory Operations (Creating, Deleting, Listing)
-- [ ] File Upload
+## [File and Directory Operations](file_directory_operations)
+- [x] [File Reading/Writing](file_directory_operations/file_reading_writing.php)
+- [x] [Directory Operations (Creating, Deleting, Listing)](file_directory_operations/directory_operations.php)
+- [x] [File Upload](file_directory_operations/file_upload.php)
 
 ## HTTP and Web Development
 - [ ] $_GET, $_POST, $_FILES, $_SESSION, $_COOKIE

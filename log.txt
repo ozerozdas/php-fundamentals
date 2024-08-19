@@ -1,2 +1,0 @@
-[LOG]: This is a test message.
-[LOG]: This is a test message.
